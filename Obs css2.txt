@@ -1,0 +1,8 @@
+.main-image {
+  display: inline-block;
+  width: 500;
+  margin-left: 121px;
+  height: 596px;
+  margin-top: 246px; /* isso fez dividir a tela entre texto e imagem*/
+
+Rodolfo fez dessa forma 
