@@ -4,3 +4,5 @@
 <p>Esse projeto consegue-se ter uma abordagem geral para estilização no css, compreedendo os conceitos para melhor posicionar e estilizar cada elemento na página e, também 
 para adptar para uma boa experiência para o usuário em qualquer dispositivo móvel.</p>
 <br>
+<img src="https://github.com/Rafaelpidias/GirlCellPhone/blob/master/PrintGirlCellPhoneResp_Mobile.PNG?raw=true">
+
