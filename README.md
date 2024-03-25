@@ -5,4 +5,6 @@
 para adptar para uma boa experiência para o usuário em qualquer dispositivo móvel.</p>
 <br>
 <img src="https://github.com/Rafaelpidias/GirlCellPhone/blob/master/PrintGirlCellPhoneResp_Mobile.PNG?raw=true">
+<img width=75% src="https://github.com/Rafaelpidias/GirlCellPhone/blob/master/PrintGirlCellPhone_Dktp.PNG?raw=true">
+
 
